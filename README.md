@@ -5,8 +5,7 @@ A little setup to get you started with react and redux, with actions and reducer
 ## Built With
 
 - React
-- redux, react-redux
-- redux-thunk, redux-logger
+- redux toolkit, react-redux
 
 ## Cloning & Installation
 
@@ -15,11 +14,11 @@ If you want to clone this project and run it on your computer, open a terminal a
 ```
 	git clone https://github.com/redasalmi/react-redux-boilerplate.git
 	cd react-redux-boilerplate
-	npm install
-	npm start
+	yarn install
+	yarn start
 ```
 
 **Note:**
 
-- `npm install` will install all the dependencies needed to run the project on your computer.
-- `npm start` will open your default browser and start the website on your localhost.
+- `yarn install` will install all the dependencies needed to run the project on your computer.
+- `yarn start` will open your default browser and start the website on your localhost.
