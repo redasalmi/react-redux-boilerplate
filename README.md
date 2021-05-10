@@ -1,6 +1,7 @@
 # React Redux Boilerplate
 
 A little setup to get you started with react and redux, with actions and reducers already setup.
+A live demo can be found here: [react-redux-boilerplate-demo](https://redux-toolkit-boilerplate.netlify.app/)
 
 ## Built With
 
